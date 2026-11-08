@@ -1,0 +1,27 @@
+INSTRUÇÕES PARA O GOOGLE AI STUDIO (aistudio.google.com > Generate speech)
+Estilo sugerido: "Leia em português do Brasil, tom de documentário, voz grave, ritmo calmo e impactante, com pausas dramáticas."
+Voz sugerida: Charon ou Orus. Cada bloco tem o tempo do vídeo; total ~1:51.
+
+[00:00–00:08] Quanto custa a política brasileira? Cada cargo... cada real... por ano. Segue e curte pra ver até o final.
+
+[00:08–00:17] O Brasil não vota todo ano: são eleições a cada dois anos. Em 2026, presidente, governadores, senadores e deputados. Em 2028, prefeitos e vereadores. Ao todo, cerca de sessenta e cinco mil políticos eleitos.
+
+[00:17–00:26] Presidente: um, mais o vice. A Presidência custa cerca de um bilhão de reais por ano, com palácios, avião, segurança e assessores.
+
+[00:26–00:35] Governadores: vinte e sete. Cerca de dois bilhões por ano em gabinetes e palácios.
+
+[00:35–00:44] Senadores: oitenta e um. O Senado custa uns seis bilhões e meio por ano. Quase oitenta milhões por senador.
+
+[00:44–00:53] Deputados federais: quinhentos e treze. A Câmara custa cerca de oito bilhões por ano. Uns quinze milhões por deputado. Comenta: você acha justo?
+
+[00:53–01:02] Deputados estaduais: mil e cinquenta e nove. As Assembleias Legislativas somam cerca de vinte bilhões por ano.
+
+[01:02–01:11] Prefeitos: cinco mil, quinhentos e sessenta e nove. Cerca de cinco bilhões por ano.
+
+[01:11–01:20] E os vereadores: cerca de cinquenta e oito mil. As Câmaras Municipais custam uns vinte e cinco bilhões por ano.
+
+[01:20–01:29] E não para aí. Fundo Eleitoral: quase cinco bilhões por eleição. Fundo Partidário: mais de um bilhão por ano. E as emendas parlamentares: cerca de cinquenta bilhões por ano.
+
+[01:29–01:40] Quanto dá no total? Cerca de cento e vinte bilhões de reais... por ano.
+
+[01:40–01:51] Isso dá uns quinhentos e sessenta reais por brasileiro, todo ano. Trezentos e trinta milhões por dia. Agora você sabe. Manda pra quem precisa ver... e segue e curte pra mais vídeos assim.
